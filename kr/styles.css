@@ -10,8 +10,12 @@
 .block4{
   background-color:green;
 }
-.h4{
-  width:110px;
+h4{
+ width: 100px;
+  color: #000;
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 .h4-1{
   background-color: 00FF7F;
@@ -25,6 +29,8 @@
 .h4-4{
   background-color:pink;
 }
-
+.block1, .block2, .block3, .block4 {
+  position: relative;
+}
 
 
