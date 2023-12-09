@@ -16,6 +16,7 @@ h4{
   position: absolute;
   bottom: 0;
   right: 0;
+  font-style:kalnia;
   
 }
 .h4-1{
@@ -39,6 +40,6 @@ h4{
   position: relative;
 }
 h1 h2 h3{
-  font-style:Thin 100 Italic
+  font-style:Roboto;
 }
 
