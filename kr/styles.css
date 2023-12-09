@@ -19,7 +19,8 @@ h4{
   
 }
 .h4-1{
-  background-color:#00FF7F;
+  background-color:
+    #00FF7F;
   font-size: 1.2em;
 }
 .h4-2{
@@ -37,5 +38,7 @@ h4{
 .block1, .block2, .block3, .block4 {
   position: relative;
 }
-
+h1 h2 h3{
+  font-style:Thin 100 Italic
+}
 
