@@ -16,18 +16,23 @@ h4{
   position: absolute;
   bottom: 0;
   right: 0;
+  
 }
 .h4-1{
   background-color:#00FF7F;
+  font-size: 1.2em;
 }
 .h4-2{
   background-color:red;
+  font-size: 1.2em;
 }
 .h4-3{
   background-color:#808000;
+  font-size: 1.2em;
 }
 .h4-4{
   background-color:pink;
+  font-size: 1.2em;
 }
 .block1, .block2, .block3, .block4 {
   position: relative;
