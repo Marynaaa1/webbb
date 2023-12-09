@@ -1,14 +1,18 @@
 .block1{
   background-color:pink;
+  font-style:Silkscreen;
 }
 .block2{
   background-color:blue;
+  font-style:Silkscreen;
 }
 .block3{
   background-color:yellow;
+  font-style:Silkscreen;
 }
 .block4{
   background-color:green;
+  font-style:Silkscreen;
 }
 h4{
  width: 100px;
