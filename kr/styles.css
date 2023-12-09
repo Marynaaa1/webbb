@@ -1,12 +1,16 @@
 .block1{
-  back-groun color:pink;
+  backgroun-color:pink;
 }
 .block2{
-  back-groun color:blue;
+  backgroun-color:blue;
 }
 .block3{
-  back-groun color:yellow;
+  backgroun-color:yellow;
 }
 .block4{
-  back-ground:green;
+  background-color:green;
+}
+.h4{
+  width:150px;
+  background-color:red;
 }
