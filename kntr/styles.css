@@ -34,20 +34,14 @@ h1, h2, h3{
   font-family: 'Kalnia', serif;
 }
      @media (max-width: 768px) {
-      .block1,
-      .block2,
-      .block3,
-      .block4 {
+      .container {
         display: block;
         width: 100%;
       }
     }
 
     @media (min-width: 769px) and (max-width: 992px) {
-      .block1,
-      .block2,
-      .block3,
-      .block4 {
+      .container {
         width: 50%;
       }
     }
@@ -67,10 +61,7 @@ h1, h2, h3{
     }
 
     @media (min-width: 1201px) {
-      .block1,
-      .block2,
-      .block3,
-      .block4 {
+      .container{
         display: flex;
         flex-direction: row;
         width: 25%;
