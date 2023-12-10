@@ -1,18 +1,18 @@
 .block1{
   background-color:pink;
-  font-style:Silkscreen;
+  font-family: 'Roboto', sans-serif;
 }
 .block2{
   background-color:blue;
-  font-style:Silkscreen;
+  font-family: 'Roboto', sans-serif;
 }
 .block3{
   background-color:yellow;
-  font-style:Silkscreen;
+  font-family: 'Roboto', sans-serif;
 }
 .block4{
   background-color:brown;
-  font-style:Silkscreen;
+  font-family: 'Roboto', sans-serif;
 }
 h4{
  width: 100px;
@@ -20,7 +20,7 @@ h4{
   position: absolute;
   bottom: 0;
   right: 0;
-  font-style:kalnia;
+ font-family: 'Kalnia', serif;
   
 }
 .h4-1{
@@ -44,6 +44,6 @@ h4{
   position: relative;
 }
 h1, h2, h3{
-  font-style:Roboto;
+  font-family: 'Silkscreen', sans-serif;
 }
 
