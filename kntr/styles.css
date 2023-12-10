@@ -1,38 +1,4 @@
-  @media (max-width: 768px) {
-    .container{
-       display: flex;
-      flex-direction:column;
-      
-    }
-    }
-  
-@media (min-width: 769px) and (max-width: 992px) {
-  .container{
-    flex-wrap: wrap;
-  }
-    .block1, .block2, .block3, .block4{
-      width:50%;
-    }
-}
-  @media (min-width: 993px) and (max-width: 1200px) {
-  .container{
-    flex-wrap: wrap;
-  }
-    .block1, .block2, .block3{
-       flex-direction: row;
-    }
-    .block4{
-      width:100%;
-    }
-  }
- @media (min-width: 1201px) {
-  .container{
-     flex-direction: row;
-  }
-   
-    
 
-    
 .block1{
   background-color:#E6E6FA;
   color:#2F4F4F;
@@ -66,4 +32,30 @@ h4{
 
 h1, h2, h3{
   font-family: 'Kalnia', serif;
-  Ї
+    @media (max-width: 768px) {
+     .block1, .block2, .block3, .block4{
+       display: flex;
+      flex-direction:column;
+      
+    }
+    }
+  
+@media (min-width: 769px) and (max-width: 992px) {
+    .block1, .block2, .block3, .block4{
+      width:50%;
+    }
+}
+  @media (min-width: 993px) and (max-width: 1200px) {
+    .block1, .block2, .block3{
+       flex-direction: row;
+    }
+    .block4{
+      width:100%;
+    }
+  }
+ @media (min-width: 1201px) {
+   .block1, .block2, .block3, .block4{
+     flex-direction: row;
+  }
+ }
+   
