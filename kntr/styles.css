@@ -32,6 +32,7 @@ h4{
 
 h1, h2, h3{
   font-family: 'Kalnia', serif;
+}
     @media (max-width: 768px) {
      .block1, .block2, .block3, .block4{
        display: flex;
