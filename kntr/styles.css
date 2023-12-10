@@ -1,0 +1,28 @@
+.block1{
+  background-color:#E6E6FA;
+  color:#87CEFA;
+}
+.block2{
+  background-color:#D8BFD8;
+  color:#87CEEB;
+}
+.block3{
+  background-color:#DDA0DD;
+  color:#ADD8E6;
+}
+.block4{
+  background-color:#DA70D6;
+  color:#AFEEEE
+}
+h4{
+  background-color:#008B8B;
+  width:100px;
+  position:absolute;
+  bottom:0;
+  left:0;
+  color:#F08080;
+  font-size:120%;
+}
+.block1, .block2, .block3, .block4{
+  position: relative;
+}
