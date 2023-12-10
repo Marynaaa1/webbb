@@ -14,6 +14,10 @@
   background-color:#DA70D6;
   color:#191970;
 }
+.block1, .block2, .block3, .block4{
+  position: relative;
+  font-family: 'Lobster Two', sans-serif;
+}
 h4{
   background-color:#008B8B;
   width:120px;
@@ -24,10 +28,7 @@ h4{
   font-size:120%;
   font-family: 'Silkscreen', sans-serif;
 }
-.block1, .block2, .block3, .block4{
-  position: relative;
-  font-family: 'Lobster Two', sans-serif;
-}
+
 h1, h2, h3{
   font-family: 'Kalnia', serif;
   Ї
