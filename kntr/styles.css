@@ -16,11 +16,11 @@
 }
 h4{
   background-color:#008B8B;
-  width:100px;
+  width:120px;
   position:absolute;
   bottom:0;
   left:0;
-  color:#2F4F4F;
+  color:##DEB887;
   font-size:120%;
 }
 .block1, .block2, .block3, .block4{
