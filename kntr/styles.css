@@ -43,10 +43,17 @@ h1, h2, h3{
 
     @media (min-width: 769px) and (max-width: 992px) {
      .container {
+       .block1, .block2{
         display: flex;
-        flex-wrap: wrap; 
-        width: 50%;
+        flex-wrap: row;
+         width:50%
      }
+       .block3, .block4{
+        display: flex;
+        flex-wrap: row; 
+         width:50%
+     }
+    }
     }
 
     @media (min-width: 993px) and (max-width: 1200px) {
